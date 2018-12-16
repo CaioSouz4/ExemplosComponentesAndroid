@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ComponentesBasicos</string>
+
+
+    <string name="example_edittext">Example showing EditText</string>
+    <string name="show_the_text">Show the Text</string>
+    <string name="enter_text">text changes</string>
+    <string name="title_activity_navegar">navegar</string>
+
+</resources>
